@@ -56,11 +56,9 @@ Uses React Router for smooth client-side navigation between search and favorites
 ## 📸 Screenshots
 
 ### 🔎 Search Interface  
-![Search Interface](screenshots/search-interface.png)
+![Image](https://github.com/user-attachments/assets/c79fd861-f744-485f-8142-bdb6c167be85)
 
 ### 🎬 Movie Results Grid  
-![Movie Grid](screenshots/movie-grid.png)
+![Image](https://github.com/user-attachments/assets/76a92a38-d8c5-4403-938e-fe6243e5823a)
 
-### ❤️ Favorites Page  
-![Favorites Page](screenshots/favorites-page.png)
 
